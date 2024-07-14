@@ -1,7 +1,7 @@
 {
   "name": "leetcode",
   "lockfileVersion": 3,
-  "requires": true,
+  "requires": True,
   "packages": {
     "": {
       "devDependencies": {
